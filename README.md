@@ -1,4 +1,4 @@
-# AFE3-Multivariate-VAR(Vector Auto Regressive)-Modeling
+# AFE3-Multivariate-VAR-Modeling-and-Multivariate-GARCH-Modeling
 University Trier - Applied Financial Econometrics - Project 3
 
 # Summary for Multivariate VAR Modeling
