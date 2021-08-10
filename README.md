@@ -2,7 +2,7 @@
 University Trier - Applied Financial Econometrics - Project 3
 
 # Summary for Multivariate VAR Modeling
-First we upload the Macro variable dataset and create a monthly inflation rate from the CPI, then declare the three macro variables Federal Fund Rate, Unemployment Rate, and Inflation Rate as a plain time series object and plotit. Afterwards, generate the three VAR models with best fit, then applying the ljung-Box test to check the "No autocorrelation" with chi-sq degrees of freedom 3 and 12. Finally we use the higher plags in VAR and fail to reject the Null Hypothesis "No autocorrelation". Moreover apply the chelosky ordering of macro variables are (Federal Fund Rate, Inflation Rate, unemployment Rate) and plot them. And explain the chelosky decomposition and its interpretation.
+First we upload the Macro variable dataset and create a monthly inflation rate from the CPI, then declare the three macro variables Federal Fund Rate, Unemployment Rate, and Inflation Rate as a plain time series object and plot it. Afterward, generate the three VAR models with best fit, then applying the ljung-Box test to check the "No autocorrelation" with chi-sq degrees of freedom 3 and 12. Finally, we use the higher plans in VAR and fail to reject the Null Hypothesis "No autocorrelation". Moreover apply the chelosky ordering of macro variables are (Federal Fund Rate, Inflation Rate, Unemployment Rate) and plot them. And explain the chelosky decomposition and its interpretation.
 
 # Task done in Multivariate VAR Modeling
 
@@ -16,7 +16,7 @@ First we upload the Macro variable dataset and create a monthly inflation rate f
 
 # Summary for Multivariate GARCH Modeling
 
-We use the exchange rate of monthly time series of Euro/USD and British Pound/USD form the Quanld data source. Afterwards, find the best DCC-GRACH model fit for log-return of two time series by using the AIC inforation cirteria. we found the dcca1 (alpha = 0.08) which is not significatly different from 0, that show the correlation bewteen the two time series. And also plot the time- varying correlation.
+We use the exchange rate of monthly time series of Euro/USD and British Pound/USD from the Quandl data source. Afterward, find the best DCC-GRACH model fit for log-return of two-time series by using the AIC information criteria. we found the dcca1 (alpha = 0.08) which is not significantly different from 0, which shows the correlation between the two-time series. And also plot the time- varying correlation.
 
 # Task done in Multivariate GARCH Modeling
 
